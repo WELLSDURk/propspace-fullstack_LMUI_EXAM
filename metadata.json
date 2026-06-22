@@ -1,0 +1,6 @@
+{
+  "name": "PropSpace",
+  "description": "A premium property listing web application with authentication, advanced search filters, and an account management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
